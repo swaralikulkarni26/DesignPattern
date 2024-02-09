@@ -1,0 +1,14 @@
+D:\Study\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.exe
+D:\Study\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.deps.json
+D:\Study\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.runtimeconfig.json
+D:\Study\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.runtimeconfig.dev.json
+D:\Study\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+D:\Study\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.pdb
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csproj.AssemblyReference.cache
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfoInputs.cache
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfo.cs
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.pdb
+D:\Study\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.genruntimeconfig.cache

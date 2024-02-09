@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pe4wBoombNAy2UvFOtlxO1sduGIAnSotceqQM/e1wXrNQzGwwIKDc1SC/ZtWEin8jYG4xCHIpQVvjJM7y7RMog==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Swarali Kulkarni\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
