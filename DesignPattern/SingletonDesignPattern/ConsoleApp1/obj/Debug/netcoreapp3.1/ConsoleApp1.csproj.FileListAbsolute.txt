@@ -1,0 +1,14 @@
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Study\DesignPattern\SingletonDesignPattern\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
